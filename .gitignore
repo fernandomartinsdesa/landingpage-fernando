@@ -1,0 +1,14 @@
+# Arquivos gerados automaticamente pelo Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+
+# Arquivos de log e lixeira do Windows
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+$RECYCLE.BIN/
